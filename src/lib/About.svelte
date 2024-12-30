@@ -29,19 +29,11 @@
 		</div>
 
 		<div class="lg:basis-5/12">
-			<div use:reveal>
-				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 350" width="600" height="350">
-					<rect width="600" height="350" fill="#ffffff"></rect>
-					<text
-						x="50%"
-						y="50%"
-						dominant-baseline="middle"
-						text-anchor="middle"
-						font-family="monospace"
-						font-size="26px"
-						fill="#675ca8">Video</text
-					>
-				</svg>
+			<div
+				use:reveal
+				class="flex h-72 w-full flex-row items-center justify-center bg-base-100 lg:h-96 lg:w-[40vw]"
+			>
+				<p class="text-2xl font-extrabold">Promo Video Coming Soon</p>
 			</div>
 		</div>
 	</div>
