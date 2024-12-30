@@ -26,7 +26,7 @@
 	];
 </script>
 
-<div class="relative bg-primary pt-16 text-primary-content lg:px-10 lg:py-16" id="home">
+<div class="relative bg-primary pt-16 text-primary-content lg:h-screen lg:px-10 lg:py-16" id="home">
 	<!-- For Large Screens -->
 	<div class="hidden w-full flex-col items-center justify-center gap-5 md:flex lg:flex lg:flex-row">
 		<div class="mt-20 basis-[55%]">
@@ -81,8 +81,7 @@
 
 			<!-- <div class="divider w-1/2 fill-primary-content"></div> -->
 			<br />
-			<br />
-			<br />
+			<!-- <br /> -->
 
 			<div
 				class="mb-6 rounded-xl bg-base-100 px-2 py-4 text-base-content shadow-2xl"
