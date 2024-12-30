@@ -13,6 +13,10 @@
 	import Hero from '$lib/Hero.svelte';
 </script>
 
+<svelte:head>
+	<title>Katorch GPT</title>
+</svelte:head>
+
 <Hero />
 <!-- About KaTorch GTP  -->
 <About />
